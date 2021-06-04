@@ -1,0 +1,3 @@
+pip install pyinstaller
+
+Pyinstaller -w -F -i "give icon path here" clock.py #replace with your file name.
